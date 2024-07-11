@@ -1,0 +1,54 @@
+.container {
+    text-align: center;
+    width: 70%;
+    margin: auto;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+p {
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-size: 2rem;
+    color: darkgreen;
+}
+
+h1 {
+    margin: 30px;
+    font-family: "Playwrite GB S", cursive;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    color: darkgreen;
+    font-style: italic;
+    text-shadow: 5px 0 #232931;
+    font-size: 6rem;
+}
+
+footer {
+    margin-top: 5%;
+    font-family: "Playwrite US Trad", cursive;
+    font-optical-sizing: auto;
+    font-style: normal;
+    text-align: center;
+    color: cornflowerblue;
+}
+
+img {
+    width: 80%;
+}
+
+h2 {
+    display: inline-block;
+    margin: 0%;
+    padding: 0px;
+    font-size: 2rem;
+    color: red;
+}

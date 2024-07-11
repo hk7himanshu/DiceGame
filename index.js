@@ -8,7 +8,7 @@ Image1.setAttribute("src", randomDiceImage);
 
 var randomNumber2 = Math.floor(Math.random() * 6 + 1);
 
-var randomDiceImage2 = "images/Dice" + randomNumber2 + ".png";
+var randomDiceImage2 = "images/dice" + randomNumber2 + ".png";
 
 document.querySelectorAll("img")[1].setAttribute("src", randomDiceImage2);
 
